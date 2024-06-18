@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Rajesh Kumar",
+      "party": "BJP",
+      "age": 45,
+      "votes": 12000
+    },
+    {
+      "name": "Suman Sharma",
+      "party": "INC",
+      "age": 52,
+      "votes": 15000
+    },
+    {
+      "name": "Amit Patel",
+      "party": "BJP",
+      "age": 38,
+      "votes": 13000
+    },
+    {
+      "name": "Nisha Singh",
+      "party": "AAP",
+      "age": 40,
+      "votes": 8000
+    },
+    {
+      "name": "Pooja Verma",
+      "party": "INC",
+      "age": 47,
+      "votes": 11000
+    },
+    {
+      "name": "Vikram Reddy",
+      "party": "TRS",
+      "age": 55,
+      "votes": 9000
+    },
+    {
+      "name": "Rekha Iyer",
+      "party": "BJP",
+      "age": 29,
+      "votes": 14000
+    },
+    {
+      "name": "Arjun Mehta",
+      "party": "INC",
+      "age": 60,
+      "votes": 16000
+    },
+    {
+      "name": "Neha Gupta",
+      "party": "BJP",
+      "age": 34,
+      "votes": 12500
+    },
+    {
+      "name": "Ravi Prasad",
+      "party": "JDU",
+      "age": 42,
+      "votes": 9500
+    }
+  ]
+  
